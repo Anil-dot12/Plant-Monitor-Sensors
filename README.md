@@ -4,7 +4,8 @@
 
 ### Welcome to "The Guardian Project," an Arduino-based smart monitoring system designed for comprehensive plant health tracking. This system utilizes a dual-sensing approach—combining analog (moisture, light, temperature) and digital (PIR motion) sensors—to continuously analyze the plant's environment. The goal is to shift plant care from guesswork to a data-driven, automated process.
 The system provides immediate feedback through an LCD display and LED indicators, alerting the user to critical conditions like low water, unsuitable temperature, or motion detection.
-![Design](https://github.com/Anil-dot12/Smart-Parking-Gate-System/blob/8ebbf9e908fc0787e2db71cd3441e8060a309252/Design1.png)
+
+![Design](plant1.jpg)
 
 ## ⚙️ Core Hardware Components:
 ### This project combines several crucial components to enable robust environmental sensing.
@@ -19,7 +20,7 @@ The system provides immediate feedback through an LCD display and LED indicators
 | LCD 16x2 (I2C) | Output | Provides immediate, human-readable status updates. |
 | LEDs (R, G, O) | Output | Green = OK, Red = Alert, Orange = Motion. |
 
-
+![Design](plant2.jpg)
 
 
 ## 🧠 Code Logic and Operation (How It Works)
