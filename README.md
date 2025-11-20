@@ -220,7 +220,11 @@ void displayOnSerial() {
   Serial.println("======================================");
 }
 ```
-
+## 🚀 Suggested Future Improvements
+### To make this project even more powerful and useful:
+ * Wireless Connectivity: Integrate a Wi-Fi module (like ESP8266) to send data to a cloud platform for remote monitoring.
+ * Automated Actuation: Add a small water pump and use the moisture alerts to create a fully automatic irrigation system.
+ * Data Logging: Implement an SD card module to log historical data, enabling long-term analysis of environmental trends.
 
 
 
